@@ -34,7 +34,6 @@ body {
   transition-duration: .5s;
 }
 .container a:hover {
-  background-color: #fff;
   transform: scale(1.1);
 }
 .cp {
